@@ -1,4 +1,4 @@
-# cyberrisk
+# sample
 
 ## Project setup
 ```
